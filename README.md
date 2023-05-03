@@ -6,4 +6,4 @@ Top portion shows what is to be done, bottom portion shows what is completed. Ea
 This program stores data into your browser cache, therefore clearing the browser cache will reset the program to default.
 <img src="tdl.png">
 
-Check it out at <a href="https://zhengzihao2002.github.io/ToDoList/todolist/todolist.html">https://zhengzihao2002.github.io/ToDoList/todolist/todolist.html</a>
+Check it out <a href="https://zhengzihao2002.github.io/ToDoList">Here</a>
